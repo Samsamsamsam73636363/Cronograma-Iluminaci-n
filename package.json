@@ -1,12 +1,10 @@
-
 {
-  "name": "cronograma_iluminacion_v3",
+  "name": "cronograma_iluminacion_v3_final",
   "version": "0.0.3",
   "private": true,
   "type": "module",
- "scripts": {
-  "build": "npx vite build",
-  "start": "npx vite preview --port $PORT --host"
+  "scripts": {
+    "build": "vite build"
   },
   "dependencies": {
     "date-fns": "^3.6.0",
